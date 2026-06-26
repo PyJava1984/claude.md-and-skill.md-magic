@@ -412,32 +412,3 @@ database/
 ├── solr.md
 └── snowflake.md
 ```
-
----
-
-# Next Step — Frontend Layer
-
-Moving into frontend engineering guides:
-
-```text id="5f8kq1"
-frontend/
-
-├── javascript.md
-├── jquery.md
-├── angular.md
-├── react.md
-├── vue.md
-├── freemarker.md
-└── groovy.md
-```
-
-Topics:
-
-* Modern JavaScript standards
-* Legacy browser support
-* Component architecture
-* State management
-* Frontend security
-* Performance optimization
-* Server-side templating
-* Frontend-backend integration patterns
