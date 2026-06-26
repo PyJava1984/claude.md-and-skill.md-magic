@@ -629,25 +629,3 @@ When generating PostgreSQL solutions:
 * Avoid unnecessary joins
 * Avoid over-normalization
 * Avoid unnecessary denormalization
-
----
-
-# Next Step — Database Layer
-
-Upcoming guides:
-
-```text id="5y9r0k"
-database/
-
-├── redis.md
-├── hazelcast.md
-├── solr.md
-└── snowflake.md
-```
-
-Topics:
-
-* Caching architecture
-* Distributed data patterns
-* Search systems
-* Analytics warehouse design
